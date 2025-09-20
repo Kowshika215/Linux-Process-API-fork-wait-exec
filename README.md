@@ -105,19 +105,7 @@ int main() {
 ## OUTPUT
 
 
-![Uploading Screenshot 2025-09-20 142000.png…]()
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="635" height="302" alt="Screenshot 2025-09-20 142000" src="https://github.com/user-attachments/assets/3d0f3e28-264f-4a7c-8b70-2f5b139ccf87" />
 
 
 
